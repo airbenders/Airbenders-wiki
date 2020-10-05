@@ -1,0 +1,28 @@
+Güzel çirkinden iyidir.
+Açık üstü kapalıdan iyidir.
+Basit komplikeden iyidir.
+Komplike karmaşıktan iyidir.
+Düz iç içe geçmişten iyidir.
+Seyrek yoğundan iyidir.
+Okunabilirlik önemlidir.
+Özel durumlar kuralları kıracak kadar özel değildir.
+Pratiklik basitliği yense de.
+Hatalar açıkça önlenmelidir.
+Eğer açıkça önlenmezse.
+Belirsizlik karşısında, tahmin etme cazibesini reddedin.
+Bir tane -tercih edilebilir bir tane- çözüm olmalıdır.
+Bu yol ilk bakışta bariz olmayabilir.
+Şimdi hiçten iyidir.
+Ancak hiç genellikle tam şimdiden daha iyidir.
+Eğer yazılan kodu açıklamak zorsa, kötü bir fikirdir.
+Eğer yazılan kodu açıklamak kolaysa, iyi bir fikirdir.
+İsim alanları harika bir fikir. Hadi daha fazla kullanalım!
+
+
+Python geliştiricisi Tim Peters, BDFL'nin Python'un tasarımına ilişkin kılavuz ilkelerini kısaca 19'u yazılı olan 20 aforizmaya aktardı ve buna python'un zeni denildi.
+Bu aforizmalar özellikle python için yazılmış olsa da bu maddelerin herhangi bir dilde yazılmış kolayca okunabilir ve sürdürülebilir her kod için geçerli olduğu söylenebilinir.
+
+İlginç: Eğer python interpreter'ine tırnak işaretleri olmadan "import this" yazarsanız. Ekrana bu aforizmalar yazılacaktır.
+
+Kaynak ve orijinal dilinde aforizmalar için:
+https://en.wikipedia.org/wiki/Zen_of_Python
