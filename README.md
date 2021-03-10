@@ -2,6 +2,10 @@
 
 Boğaziçi İHA Takımı
 
+### grand_script
+
+Release versiyonu [burada](https://github.com/airbenders/Airbenders-wiki/releases).
+Kurulumu için wiki'ye başvurabilirsin.
 
 ### Wikiyi bulamadıysan;
 * Birini yap:
