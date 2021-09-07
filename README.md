@@ -13,3 +13,9 @@ Kurulumu için wiki'ye başvurabilirsin.
 veya...
   * Bu linke tıkla: [Airbenders-wiki](https://github.com/airbenders/Airbenders-wiki/wiki)
 * Ekranın sağına bak. Aradığını bulabilirsin!
+
+### c++ görevleri
+
+https://github.com/orgs/AirbendersEgitim/repositories
+
+Kendi hesabınıza fork oluşturup düzenlemeleri git ile yapabilirsiniz.
